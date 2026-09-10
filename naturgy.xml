@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 10 Sep 2026 15:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:57:05 +0000</lastBuildDate>
+    <item>
+      <title>La Central de Ciclo Combinado de Cartagena cumple 20 años como infraestructura estratégica para el suministro eléctrico de la Región de Murcia</title>
+      <link>https://www.naturgy.com/notas-de-prensa/la-central-de-ciclo-combinado-de-cartagena-cumple-20-anos-como-infraestructura-estrategica-para-el-suministro-electrico-de-la-region-de-murcia/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/la-central-de-ciclo-combinado-de-cartagena-cumple-20-anos-como-infraestructura-estrategica-para-el-suministro-electrico-de-la-region-de-murcia/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>UFD refuerza la red eléctrica de O Pereiro de Aguiar con más de 6 millones de euros en inversiones y mantenimiento</title>
       <link>https://www.naturgy.com/notas-de-prensa/ufd-refuerza-la-red-electrica-de-o-pereiro-de-aguiar-con-mas-de-6-millones-de-euros-en-inversiones-y-mantenimiento/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Thu, 09 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fundación Naturgy premia un proyecto que convierte la transición energética en oportunidades de empleo</title>
-      <link>https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-premia-un-proyecto-que-convierte-la-transicion-energetica-en-oportunidades-de-empleo/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-premia-un-proyecto-que-convierte-la-transicion-energetica-en-oportunidades-de-empleo/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
