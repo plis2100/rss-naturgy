@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 22 Sep 2026 16:56:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:18:04 +0000</lastBuildDate>
+    <item>
+      <title>Naturgy refuerza su compromiso para facilitar la energía a las personas: ‘Cada día. Everyday’</title>
+      <link>https://www.naturgy.com/notas-de-prensa/naturgy-refuerza-su-compromiso-para-facilitar-la-energia-a-las-personas-cada-dia-everyday/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-refuerza-su-compromiso-para-facilitar-la-energia-a-las-personas-cada-dia-everyday/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Naturgy invertirá 330 millones de euros en la transformación tecnológica de seis parques eólicos</title>
       <link>https://www.naturgy.com/notas-de-prensa/naturgy-invertira-330-millones-de-euros-en-la-transformacion-tecnologica-de-seis-parques-eolicos/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La primera plataforma solar marina de España llega al Puerto de Valencia para iniciar su fase de pruebas</title>
-      <link>https://www.naturgy.com/notas-de-prensa/la-primera-plataforma-solar-marina-de-espana-llega-al-puerto-de-valencia-para-iniciar-su-fase-de-pruebas/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/la-primera-plataforma-solar-marina-de-espana-llega-al-puerto-de-valencia-para-iniciar-su-fase-de-pruebas/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
