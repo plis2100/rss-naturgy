@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 28 Sep 2026 14:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:23:16 +0000</lastBuildDate>
+    <item>
+      <title>Fundación Naturgy forma a más de 5.000 personas en Galicia para combatir la vulnerabilidad energética a través de la Escuela de Energía</title>
+      <link>https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-forma-a-mas-de-5-000-personas-en-galicia-para-combatir-la-vulnerabilidad-energetica-a-traves-de-la-escuela-de-energia/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-forma-a-mas-de-5-000-personas-en-galicia-para-combatir-la-vulnerabilidad-energetica-a-traves-de-la-escuela-de-energia/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Naturgy impulsa una nueva edición de Connecting Energy para acelerar soluciones innovadoras para la transición energética</title>
       <link>https://www.naturgy.com/notas-de-prensa/naturgy-impulsa-una-nueva-edicion-de-connecting-energy-para-acelerar-soluciones-innovadoras-para-la-transicion-energetica/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Wed, 22 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naturgy invertirá más de 300 millones en la construcción de su mayor proyecto renovable en Australia</title>
-      <link>https://www.naturgy.com/notas-de-prensa/naturgy-invertira-mas-de-300-millones-en-la-construccion-de-su-mayor-proyecto-renovable-en-australia/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-invertira-mas-de-300-millones-en-la-construccion-de-su-mayor-proyecto-renovable-en-australia/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
