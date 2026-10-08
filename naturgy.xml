@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 07 Oct 2026 13:59:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:05:00 +0000</lastBuildDate>
+    <item>
+      <title>El ritmo actual de ejecución pone en riesgo el cumplimiento de buena parte de los objetivos del PNIEC para 2030</title>
+      <link>https://www.naturgy.com/notas-de-prensa/el-ritmo-actual-de-ejecucion-pone-en-riesgo-el-cumplimiento-de-buena-parte-de-los-objetivos-del-pniec-para-2030/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/el-ritmo-actual-de-ejecucion-pone-en-riesgo-el-cumplimiento-de-buena-parte-de-los-objetivos-del-pniec-para-2030/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>El primer demostrador solar marino precomercial de España completa su instalación en el puerto de Valencia e inicia su fase de pruebas</title>
       <link>https://www.naturgy.com/notas-de-prensa/el-primer-demostrador-solar-marino-precomercial-de-espana-completa-su-instalacion-en-el-puerto-de-valencia-e-inicia-su-fase-de-pruebas/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Tue, 04 Aug 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moeve y Naturgy duplican el ahorro para sus clientes en los repostajes de los grandes desplazamientos del verano</title>
-      <link>https://www.naturgy.com/notas-de-prensa/moeve-y-naturgy-duplican-el-ahorro-para-sus-clientes-en-los-repostajes-de-los-grandes-desplazamientos-del-verano/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/moeve-y-naturgy-duplican-el-ahorro-para-sus-clientes-en-los-repostajes-de-los-grandes-desplazamientos-del-verano/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
