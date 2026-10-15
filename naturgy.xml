@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 14 Oct 2026 12:28:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:10:43 +0000</lastBuildDate>
+    <item>
+      <title>Naturgy avanza en la transformación de sus espacios de trabajo con una nueva sede en Madrid</title>
+      <link>https://www.naturgy.com/notas-de-prensa/naturgy-avanza-en-la-transformacion-de-sus-espacios-de-trabajo-con-una-nueva-sede-en-madrid/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-avanza-en-la-transformacion-de-sus-espacios-de-trabajo-con-una-nueva-sede-en-madrid/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>El ritmo actual de ejecución pone en riesgo el cumplimiento de buena parte de los objetivos del PNIEC para 2030</title>
       <link>https://www.naturgy.com/notas-de-prensa/el-ritmo-actual-de-ejecucion-pone-en-riesgo-el-cumplimiento-de-buena-parte-de-los-objetivos-del-pniec-para-2030/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Tue, 18 Aug 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naturgy consolida su compromiso con la sostenibilidad con un doble reconocimiento internacional</title>
-      <link>https://www.naturgy.com/notas-de-prensa/naturgy-consolida-su-compromiso-con-la-sostenibilidad-con-un-doble-reconocimiento-internacional/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-consolida-su-compromiso-con-la-sostenibilidad-con-un-doble-reconocimiento-internacional/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Tue, 04 Aug 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
