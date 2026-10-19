@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 14:52:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:02:52 +0000</lastBuildDate>
+    <item>
+      <title>Fundación Naturgy convoca una nueva edición del Certamen Efigy para acercar la innovación energética a las aulas</title>
+      <link>https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-convoca-una-nueva-edicion-del-certamen-efigy-para-acercar-la-innovacion-energetica-a-las-aulas/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-convoca-una-nueva-edicion-del-certamen-efigy-para-acercar-la-innovacion-energetica-a-las-aulas/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>UFD invertirá cerca de 160.000 euros para mejorar la red eléctrica que abastece A Caeira, en el municipio de Poio (Pontevedra)</title>
       <link>https://www.naturgy.com/notas-de-prensa/ufd-invertira-cerca-de-160-000-euros-para-mejorar-la-red-electrica-que-abastece-a-caeira-en-el-municipio-de-poio-pontevedra/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UFD refuerza la red eléctrica de O Pereiro de Aguiar con más de 6 millones de euros en inversiones y mantenimiento</title>
-      <link>https://www.naturgy.com/notas-de-prensa/ufd-refuerza-la-red-electrica-de-o-pereiro-de-aguiar-con-mas-de-6-millones-de-euros-en-inversiones-y-mantenimiento/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/ufd-refuerza-la-red-electrica-de-o-pereiro-de-aguiar-con-mas-de-6-millones-de-euros-en-inversiones-y-mantenimiento/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Wed, 19 Aug 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
