@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Oct 2026 12:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:28:34 +0000</lastBuildDate>
+    <item>
+      <title>María Sicilia (Agencia Internacional de la Energía): “La electrificación es la palanca para tener una energía más segura, competitiva y sostenible”</title>
+      <link>https://www.naturgy.com/notas-de-prensa/maria-sicilia-agencia-internacional-de-la-energia-la-electrificacion-es-la-palanca-para-tener-una-energia-mas-segura-competitiva-y-sostenible/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/maria-sicilia-agencia-internacional-de-la-energia-la-electrificacion-es-la-palanca-para-tener-una-energia-mas-segura-competitiva-y-sostenible/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fundación Naturgy convoca una nueva edición del Certamen Efigy para acercar la innovación energética a las aulas</title>
       <link>https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-convoca-una-nueva-edicion-del-certamen-efigy-para-acercar-la-innovacion-energetica-a-las-aulas/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Mon, 14 Sep 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Central de Ciclo Combinado de Cartagena cumple 20 años como infraestructura estratégica para el suministro eléctrico de la Región de Murcia</title>
-      <link>https://www.naturgy.com/notas-de-prensa/la-central-de-ciclo-combinado-de-cartagena-cumple-20-anos-como-infraestructura-estrategica-para-el-suministro-electrico-de-la-region-de-murcia/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/la-central-de-ciclo-combinado-de-cartagena-cumple-20-anos-como-infraestructura-estrategica-para-el-suministro-electrico-de-la-region-de-murcia/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
