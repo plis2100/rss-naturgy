@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 21 Oct 2026 12:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:31:16 +0000</lastBuildDate>
+    <item>
+      <title>Naturgy lanza su nueva app para acompañar a las personas en su relación con la energía</title>
+      <link>https://www.naturgy.com/notas-de-prensa/naturgy-lanza-su-nueva-app-para-acompanar-a-las-personas-en-su-relacion-con-la-energia/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-lanza-su-nueva-app-para-acompanar-a-las-personas-en-su-relacion-con-la-energia/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>María Sicilia (Agencia Internacional de la Energía): “La electrificación es la palanca para tener una energía más segura, competitiva y sostenible”</title>
       <link>https://www.naturgy.com/notas-de-prensa/maria-sicilia-agencia-internacional-de-la-energia-la-electrificacion-es-la-palanca-para-tener-una-energia-mas-segura-competitiva-y-sostenible/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naturgy invertirá 330 millones de euros en la transformación tecnológica de seis parques eólicos</title>
-      <link>https://www.naturgy.com/notas-de-prensa/naturgy-invertira-330-millones-de-euros-en-la-transformacion-tecnologica-de-seis-parques-eolicos/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-invertira-330-millones-de-euros-en-la-transformacion-tecnologica-de-seis-parques-eolicos/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Mon, 14 Sep 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
