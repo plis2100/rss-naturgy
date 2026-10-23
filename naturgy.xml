@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Oct 2026 12:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:11:59 +0000</lastBuildDate>
+    <item>
+      <title>Naturgy reúne a cerca de 1.000 participantes en iniciativas sociales y ambientales durante su Semana del Voluntariado</title>
+      <link>https://www.naturgy.com/notas-de-prensa/naturgy-reune-a-cerca-de-1-000-participantes-en-iniciativas-sociales-y-ambientales-durante-su-semana-del-voluntariado/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-reune-a-cerca-de-1-000-participantes-en-iniciativas-sociales-y-ambientales-durante-su-semana-del-voluntariado/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Naturgy lanza su nueva app para acompañar a las personas en su relación con la energía</title>
       <link>https://www.naturgy.com/notas-de-prensa/naturgy-lanza-su-nueva-app-para-acompanar-a-las-personas-en-su-relacion-con-la-energia/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naturgy refuerza su compromiso para facilitar la energía a las personas: ‘Cada día. Everyday’</title>
-      <link>https://www.naturgy.com/notas-de-prensa/naturgy-refuerza-su-compromiso-para-facilitar-la-energia-a-las-personas-cada-dia-everyday/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-refuerza-su-compromiso-para-facilitar-la-energia-a-las-personas-cada-dia-everyday/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
