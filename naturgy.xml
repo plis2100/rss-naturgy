@@ -7,7 +7,23 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 13:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:46:05 +0000</lastBuildDate>
+    <item>
+      <title>Naturgy mejora su beneficio neto un 5% en los nueve primeros meses de 2026</title>
+      <link>https://www.naturgy.com/notas-de-prensa/naturgy-mejora-su-beneficio-neto-un-5-en-los-nueve-primeros-meses-de-2026/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-mejora-su-beneficio-neto-un-5-en-los-nueve-primeros-meses-de-2026/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UFD invierte 1,9 millones de euros en la renovación de la línea de alta tensión entre Pontesampaio y Cangas</title>
+      <link>https://www.naturgy.com/notas-de-prensa/ufd-invierte-19-millones-de-euros-en-la-renovacion-de-la-linea-de-alta-tension-entre-pontesampaio-y-cangas/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/ufd-invierte-19-millones-de-euros-en-la-renovacion-de-la-linea-de-alta-tension-entre-pontesampaio-y-cangas/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Naturgy reúne a cerca de 1.000 participantes en iniciativas sociales y ambientales durante su Semana del Voluntariado</title>
       <link>https://www.naturgy.com/notas-de-prensa/naturgy-reune-a-cerca-de-1-000-participantes-en-iniciativas-sociales-y-ambientales-durante-su-semana-del-voluntariado/</link>
@@ -79,22 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Thu, 01 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fundación Naturgy forma a más de 5.000 personas en Galicia para combatir la vulnerabilidad energética a través de la Escuela de Energía</title>
-      <link>https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-forma-a-mas-de-5-000-personas-en-galicia-para-combatir-la-vulnerabilidad-energetica-a-traves-de-la-escuela-de-energia/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-forma-a-mas-de-5-000-personas-en-galicia-para-combatir-la-vulnerabilidad-energetica-a-traves-de-la-escuela-de-energia/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naturgy impulsa una nueva edición de Connecting Energy para acelerar soluciones innovadoras para la transición energética</title>
-      <link>https://www.naturgy.com/notas-de-prensa/naturgy-impulsa-una-nueva-edicion-de-connecting-energy-para-acelerar-soluciones-innovadoras-para-la-transicion-energetica/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/naturgy-impulsa-una-nueva-edicion-de-connecting-energy-para-acelerar-soluciones-innovadoras-para-la-transicion-energetica/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
