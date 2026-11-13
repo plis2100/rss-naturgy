@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 15:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:56:10 +0000</lastBuildDate>
+    <item>
+      <title>La transición energética europea se juega en la gobernanza, la competitividad y el crecimiento</title>
+      <link>https://www.naturgy.com/notas-de-prensa/la-transicion-energetica-europea-se-juega-en-la-gobernanza-la-competitividad-y-el-crecimiento/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/la-transicion-energetica-europea-se-juega-en-la-gobernanza-la-competitividad-y-el-crecimiento/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Los expertos llaman a acelerar la transición energética con más inversión, competitividad y apoyo social</title>
       <link>https://www.naturgy.com/notas-de-prensa/los-expertos-llaman-a-acelerar-la-transicion-energetica-con-mas-inversion-competitividad-y-apoyo-social/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El ritmo actual de ejecución pone en riesgo el cumplimiento de buena parte de los objetivos del PNIEC para 2030</title>
-      <link>https://www.naturgy.com/notas-de-prensa/el-ritmo-actual-de-ejecucion-pone-en-riesgo-el-cumplimiento-de-buena-parte-de-los-objetivos-del-pniec-para-2030/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/el-ritmo-actual-de-ejecucion-pone-en-riesgo-el-cumplimiento-de-buena-parte-de-los-objetivos-del-pniec-para-2030/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
