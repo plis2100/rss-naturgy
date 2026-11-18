@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 16:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:59:29 +0000</lastBuildDate>
+    <item>
+      <title>UFD mejora la calidad del suministro eléctrico en Castro de Beiro, en el Concello de Ourense, con una inversión de 100.000 euros</title>
+      <link>https://www.naturgy.com/notas-de-prensa/ufd-mejora-la-calidad-del-suministro-electrico-en-castro-de-beiro-en-el-concello-de-ourense-con-una-inversion-de-100-000-euros/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/ufd-mejora-la-calidad-del-suministro-electrico-en-castro-de-beiro-en-el-concello-de-ourense-con-una-inversion-de-100-000-euros/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fundación Naturgy y el CSIC lanzan una nueva convocatoria para impulsar la investigación energética en España</title>
       <link>https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-y-el-csic-lanzan-una-nueva-convocatoria-para-impulsar-la-investigacion-energetica-en-espana/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fundación Naturgy convoca una nueva edición del Certamen Efigy para acercar la innovación energética a las aulas</title>
-      <link>https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-convoca-una-nueva-edicion-del-certamen-efigy-para-acercar-la-innovacion-energetica-a-las-aulas/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/fundacion-naturgy-convoca-una-nueva-edicion-del-certamen-efigy-para-acercar-la-innovacion-energetica-a-las-aulas/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Mon, 19 Oct 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
