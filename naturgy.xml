@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-naturgy/main/naturgy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 15:59:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:05:47 +0000</lastBuildDate>
+    <item>
+      <title>Vithas y Naturgy firman un acuerdo para el suministro de gas verde y avanzar en el uso de energía renovable</title>
+      <link>https://www.naturgy.com/notas-de-prensa/vithas-y-naturgy-firman-un-acuerdo-para-el-suministro-de-gas-verde-y-avanzar-en-el-uso-de-energia-renovable/</link>
+      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/vithas-y-naturgy-firman-un-acuerdo-para-el-suministro-de-gas-verde-y-avanzar-en-el-uso-de-energia-renovable/</guid>
+      <description>Nota de prensa oficial publicada por Naturgy.</description>
+      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>UFD mejora la calidad del suministro eléctrico en Castro de Beiro, en el Concello de Ourense, con una inversión de 100.000 euros</title>
       <link>https://www.naturgy.com/notas-de-prensa/ufd-mejora-la-calidad-del-suministro-electrico-en-castro-de-beiro-en-el-concello-de-ourense-con-una-inversion-de-100-000-euros/</link>
@@ -87,14 +95,6 @@
       <description>Nota de prensa oficial publicada por Naturgy.</description>
       <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
       <pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>María Sicilia (Agencia Internacional de la Energía): “La electrificación es la palanca para tener una energía más segura, competitiva y sostenible”</title>
-      <link>https://www.naturgy.com/notas-de-prensa/maria-sicilia-agencia-internacional-de-la-energia-la-electrificacion-es-la-palanca-para-tener-una-energia-mas-segura-competitiva-y-sostenible/</link>
-      <guid isPermaLink="true">https://www.naturgy.com/notas-de-prensa/maria-sicilia-agencia-internacional-de-la-energia-la-electrificacion-es-la-palanca-para-tener-una-energia-mas-segura-competitiva-y-sostenible/</guid>
-      <description>Nota de prensa oficial publicada por Naturgy.</description>
-      <source url="https://www.naturgy.com/sala-de-prensa/">Naturgy</source>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
